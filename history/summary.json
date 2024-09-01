@@ -4,19 +4,19 @@
     "url": "https://api.datalab.ml-evs.science/healthcheck/is_ready",
     "icon": "https://icons.duckduckgo.com/ip3/api.datalab.ml-evs.science.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "15.37%",
-    "uptimeDay": "15.37%",
-    "uptimeWeek": "15.37%",
-    "uptimeMonth": "15.37%",
-    "uptimeYear": "15.37%",
-    "time": 695,
-    "timeDay": 695,
-    "timeWeek": 695,
-    "timeMonth": 695,
-    "timeYear": 695,
+    "status": "up",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
+    "time": 977,
+    "timeDay": 977,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
     "dailyMinutesDown": {
-      "2024-09-01": 0
+      "2024-09-01": 10
     }
   },
   {
