@@ -4,6 +4,9 @@ repo: status # The name of this repository
 assignees: # Users to assign downtime issues (optional)
   - ml-evs
 
+workflowSchedule:
+  uptime: "*/30 * * * *"
+
 sites:
   - name: API
     url: https://api.datalab.ml-evs.science/healthcheck/is_ready
