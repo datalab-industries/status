@@ -1,7 +1,7 @@
 url: https://api.datalab.ml-evs.science/healthcheck/is_ready
 status: up
 code: 200
-responseTime: 4417
-lastUpdated: 2024-09-20T23:08:04.529Z
+responseTime: 476
+lastUpdated: 2024-09-21T23:07:01.384Z
 startTime: 2024-09-01T18:57:37.884Z
 generator: Upptime <https://github.com/upptime/upptime>
