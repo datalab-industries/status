@@ -9,9 +9,9 @@ workflowSchedule:
 
 sites:
   - name: API
-    url: https://api.datalab.ml-evs.science/healthcheck/is_ready
+    url: https://avnos-datalab-api.matgenix.com/healthcheck/is_ready
   - name: App
-    url: https://datalab.ml-evs.science
+    url: https://avnos-datalab.matgenix.com
   - name: Demo API
     url: https://demo-api.datalab-org.io/healthcheck/is_ready
   - name: Demo app
