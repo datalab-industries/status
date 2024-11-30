@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
-    "time": 506,
-    "timeDay": 333,
-    "timeWeek": 364,
-    "timeMonth": 365,
-    "timeYear": 506,
+    "time": 505,
+    "timeDay": 343,
+    "timeWeek": 352,
+    "timeMonth": 367,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2024-10-09": 846,
       "2024-09-01": 10
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/avnos-datalab.matgenix.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.33%",
-    "time": 455,
-    "timeDay": 319,
-    "timeWeek": 367,
+    "uptimeYear": "99.34%",
+    "time": 453,
+    "timeDay": 308,
+    "timeWeek": 350,
     "timeMonth": 357,
-    "timeYear": 455,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2024-10-09": 846
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 581,
-    "timeDay": 528,
-    "timeWeek": 618,
-    "timeMonth": 574,
-    "timeYear": 581,
+    "time": 582,
+    "timeDay": 638,
+    "timeWeek": 605,
+    "timeMonth": 577,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2024-09-05": 104,
       "2024-09-04": 7
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 570,
-    "timeDay": 508,
-    "timeWeek": 526,
-    "timeMonth": 555,
-    "timeYear": 570,
+    "time": 571,
+    "timeDay": 617,
+    "timeWeek": 529,
+    "timeMonth": 557,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2024-09-05": 104
     }
