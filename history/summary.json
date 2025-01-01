@@ -45,9 +45,9 @@
     "url": "https://demo-api.datalab-org.io/healthcheck/is_ready",
     "icon": "https://icons.duckduckgo.com/ip3/demo-api.datalab-org.io.ico",
     "slug": "demo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.77%",
@@ -57,6 +57,7 @@
     "timeMonth": 604,
     "timeYear": 587,
     "dailyMinutesDown": {
+      "2025-01-01": 0,
       "2024-12-04": 297,
       "2024-09-05": 104,
       "2024-09-04": 7
@@ -67,9 +68,9 @@
     "url": "https://demo.datalab-org.io/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.datalab-org.io.ico",
     "slug": "demo-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.77%",
@@ -79,6 +80,7 @@
     "timeMonth": 556,
     "timeYear": 566,
     "dailyMinutesDown": {
+      "2025-01-01": 0,
       "2024-12-04": 297,
       "2024-09-05": 104
     }
