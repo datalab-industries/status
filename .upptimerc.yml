@@ -16,3 +16,5 @@ sites:
     url: https://demo-api.datalab-org.io/healthcheck/is_ready
   - name: Demo app
     url: https://demo.datalab-org.io/
+  - name: thismaterialdoesnotexist.com
+    url: https://thismaterialdoesnotexist.com
