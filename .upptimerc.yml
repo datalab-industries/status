@@ -18,3 +18,5 @@ sites:
     url: https://demo.datalab-org.io/
   - name: thismaterialdoesnotexist.com
     url: https://thismaterialdoesnotexist.com
+  - name: CSD Demo API
+    url: https://csd-optimade.datalab.industries
