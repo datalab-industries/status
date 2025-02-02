@@ -20,3 +20,5 @@ sites:
     url: https://thismaterialdoesnotexist.com
   - name: CSD Demo API
     url: https://csd-optimade.datalab.industries
+    expectedStatusCodes:
+      - 403
