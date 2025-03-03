@@ -22,4 +22,6 @@ sites:
     url: https://csd-optimade.datalab.industries
     expectedStatusCodes:
       - 403
-      - 301
+      - 302
+  - name: DMLK
+    url: https://share.dmlk.co.uk
