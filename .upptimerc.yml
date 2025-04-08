@@ -23,5 +23,7 @@ sites:
     expectedStatusCodes:
       - 403
       - 302
+  - name: grafana
+    url: https://grafana.datalab.industries
   - name: DMLK
     url: https://share.dmlk.co.uk
