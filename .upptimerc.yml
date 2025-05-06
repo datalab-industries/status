@@ -18,12 +18,6 @@ sites:
     url: https://demo.datalab-org.io/
   - name: thismaterialdoesnotexist.com
     url: https://thismaterialdoesnotexist.com
-  - name: CSD Demo API
-    url: https://csd-optimade.datalab.industries
-    expectedStatusCodes:
-      - 403
-      - 302
-      - 200
   - name: grafana
     url: https://grafana.datalab.industries
   - name: DMLK
