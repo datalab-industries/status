@@ -1,7 +1,7 @@
 url: https://grafana.datalab.industries
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-01T23:08:39.427Z
+status: up
+code: 200
+responseTime: 1046
+lastUpdated: 2025-06-02T20:42:35.905Z
 startTime: 2025-04-08T09:23:00.795Z
 generator: Upptime <https://github.com/upptime/upptime>
