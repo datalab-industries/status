@@ -22,3 +22,12 @@ sites:
     url: https://grafana.datalab.industries
   - name: DMLK
     url: https://share.dmlk.co.uk
+  - name: odbx
+    url: https://odbx.science
+  - name: odbx (OPTIMADE)
+    url: https://optimade.odbx.science/v1/structures
+  - name: odbx (OPTIMADE 2)
+    url: https://optimade-gnome.odbx.science/v1/structures
+  - name: odbx (OPTIMADE 3)
+    url: https://optimade-misc.odbx.science/v1/structures
+    
