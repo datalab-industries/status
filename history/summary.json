@@ -105,9 +105,9 @@
     "url": "https://thismaterialdoesnotexist.com",
     "icon": "https://icons.duckduckgo.com/ip3/thismaterialdoesnotexist.com.ico",
     "slug": "thismaterialdoesnotexist-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
@@ -117,6 +117,7 @@
     "timeMonth": 516,
     "timeYear": 513,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-04-28": 769,
       "2025-04-27": 583
     }
@@ -127,11 +128,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.datalab.industries.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.25%",
     "time": 1178,
     "timeDay": 975,
     "timeWeek": 1058,
@@ -150,11 +151,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.dmlk.co.uk.ico",
     "slug": "dmlk",
     "status": "up",
-    "uptime": "95.07%",
+    "uptime": "95.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "95.07%",
+    "uptimeYear": "95.08%",
     "time": 1459,
     "timeDay": 1842,
     "timeWeek": 1566,
@@ -216,9 +217,9 @@
     "url": "https://odbx.science",
     "icon": "https://icons.duckduckgo.com/ip3/odbx.science.ico",
     "slug": "odbx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -227,16 +228,18 @@
     "timeWeek": 609,
     "timeMonth": 675,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   },
   {
     "name": "odbx (OPTIMADE)",
     "url": "https://optimade.odbx.science/v1/structures",
     "icon": "https://icons.duckduckgo.com/ip3/optimade.odbx.science.ico",
     "slug": "odbx-optimade",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -245,16 +248,18 @@
     "timeWeek": 964,
     "timeMonth": 1033,
     "timeYear": 1070,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   },
   {
     "name": "odbx (OPTIMADE 2)",
     "url": "https://optimade-gnome.odbx.science/v1/structures",
     "icon": "https://icons.duckduckgo.com/ip3/optimade-gnome.odbx.science.ico",
     "slug": "odbx-optimade-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -263,16 +268,18 @@
     "timeWeek": 2178,
     "timeMonth": 2250,
     "timeYear": 2136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   },
   {
     "name": "odbx (OPTIMADE 3)",
     "url": "https://optimade-misc.odbx.science/v1/structures",
     "icon": "https://icons.duckduckgo.com/ip3/optimade-misc.odbx.science.ico",
     "slug": "odbx-optimade-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -281,6 +288,8 @@
     "timeWeek": 1116,
     "timeMonth": 1249,
     "timeYear": 1208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   }
 ]
