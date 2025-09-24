@@ -28,4 +28,8 @@ sites:
     url: https://optimade-gnome.odbx.science/v1/structures
   - name: odbx (OPTIMADE 3)
     url: https://optimade-misc.odbx.science/v1/structures
+  - name: Sun Lab (datalab API)
+    url: https://datalab-api.camsunlab.com
+  - name: Sun Lab (datalab app)
+    url: https://datalab.camsunlab.com
     
