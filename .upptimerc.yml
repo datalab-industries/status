@@ -30,4 +30,15 @@ sites:
     url: https://datalab-api.camsunlab.com
   - name: Sun Lab (datalab app)
     url: https://datalab.camsunlab.com
-    
+  - name: PSDI Polymers (datalab app)
+    url: https://psdi.datalab.industries
+  - name: PSDI Polymers (datalab API)
+    url: https://api.psdi.datalab.industries
+  - name: Faraday FAST (datalab app)
+    url: https://faraday-fast.datalab.industries
+  - name: Faraday FAST (datalab API)
+    url: https://api.faraday-fast.datalab.industries
+  - name: Dialup (datalab app)
+    url: https://dialup.datalab.industries
+  - name: Dialup (datalab app)
+    url: https://api.dialup.datalab.industries
