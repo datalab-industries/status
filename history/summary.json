@@ -293,18 +293,20 @@
     "url": "https://api.faraday-fast.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/api.faraday-fast.datalab.industries.ico",
     "slug": "faraday-fast-datalab-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 759,
-    "timeWeek": 547,
-    "timeMonth": 577,
-    "timeYear": 589,
-    "dailyMinutesDown": {}
+    "time": 588,
+    "timeDay": 644,
+    "timeWeek": 545,
+    "timeMonth": 575,
+    "timeYear": 588,
+    "dailyMinutesDown": {
+      "2026-01-28": 0
+    }
   },
   {
     "name": "Dialup (datalab app)",
