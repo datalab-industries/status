@@ -97,7 +97,7 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "89.83%",
+    "uptimeDay": "93.74%",
     "uptimeWeek": "98.55%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.13%",
@@ -314,9 +314,9 @@
     "url": "https://dialup.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/dialup.datalab.industries.ico",
     "slug": "dialup-datalab-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -325,16 +325,18 @@
     "timeWeek": 711,
     "timeMonth": 616,
     "timeYear": 633,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-01": 0
+    }
   },
   {
     "name": "Dialup (datalab app)",
     "url": "https://api.dialup.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/api.dialup.datalab.industries.ico",
     "slug": "dialup-datalab-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -343,6 +345,8 @@
     "timeWeek": 711,
     "timeMonth": 616,
     "timeYear": 633,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-01": 0
+    }
   }
 ]
