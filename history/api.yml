@@ -1,7 +1,7 @@
 url: https://avnos-datalab-api.matgenix.com/healthcheck/is_ready
 status: up
 code: 200
-responseTime: 490
-lastUpdated: 2026-04-21T23:26:09.402Z
+responseTime: 493
+lastUpdated: 2026-04-22T23:36:32.844Z
 startTime: 2024-09-01T18:57:37.884Z
 generator: Upptime <https://github.com/upptime/upptime>
