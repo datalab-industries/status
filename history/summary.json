@@ -272,10 +272,10 @@
     "url": "https://faraday-fast.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/faraday-fast.datalab.industries.ico",
     "slug": "faraday-fast-datalab-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 659,
@@ -283,16 +283,18 @@
     "timeWeek": 572,
     "timeMonth": 645,
     "timeYear": 659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-22": 1
+    }
   },
   {
     "name": "Faraday FAST (datalab API)",
     "url": "https://api.faraday-fast.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/api.faraday-fast.datalab.industries.ico",
     "slug": "faraday-fast-datalab-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -302,6 +304,7 @@
     "timeMonth": 597,
     "timeYear": 581,
     "dailyMinutesDown": {
+      "2026-04-22": 0,
       "2026-01-28": 53
     }
   },
