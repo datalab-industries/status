@@ -313,9 +313,9 @@
     "url": "https://dialup.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/dialup.datalab.industries.ico",
     "slug": "dialup-datalab-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
@@ -325,6 +325,7 @@
     "timeMonth": 639,
     "timeYear": 621,
     "dailyMinutesDown": {
+      "2026-05-03": 0,
       "2026-02-01": 502
     }
   },
@@ -333,9 +334,9 @@
     "url": "https://api.dialup.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/api.dialup.datalab.industries.ico",
     "slug": "dialup-datalab-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
@@ -345,6 +346,7 @@
     "timeMonth": 639,
     "timeYear": 621,
     "dailyMinutesDown": {
+      "2026-05-03": 0,
       "2026-02-01": 502
     }
   }
