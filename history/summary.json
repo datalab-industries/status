@@ -236,10 +236,10 @@
     "url": "https://psdi.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/psdi.datalab.industries.ico",
     "slug": "psdi-polymers-datalab-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 716,
@@ -247,17 +247,19 @@
     "timeWeek": 705,
     "timeMonth": 686,
     "timeYear": 716,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-04": 1
+    }
   },
   {
     "name": "PSDI Polymers (datalab API)",
     "url": "https://api.psdi.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/api.psdi.datalab.industries.ico",
     "slug": "psdi-polymers-datalab-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 694,
@@ -265,7 +267,9 @@
     "timeWeek": 610,
     "timeMonth": 648,
     "timeYear": 694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-04": 1
+    }
   },
   {
     "name": "Faraday FAST (datalab app)",
@@ -315,12 +319,12 @@
     "slug": "dialup-datalab-app",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "93.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.73%",
     "time": 621,
-    "timeDay": 586,
+    "timeDay": 590,
     "timeWeek": 653,
     "timeMonth": 636,
     "timeYear": 621,
@@ -336,12 +340,12 @@
     "slug": "dialup-datalab-app",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "93.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.73%",
     "time": 621,
-    "timeDay": 586,
+    "timeDay": 590,
     "timeWeek": 653,
     "timeMonth": 636,
     "timeYear": 621,
