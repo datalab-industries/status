@@ -89,7 +89,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.datalab.industries.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -200,10 +200,10 @@
     "url": "https://datalab-api.camsunlab.com",
     "icon": "https://icons.duckduckgo.com/ip3/datalab-api.camsunlab.com.ico",
     "slug": "sun-lab-datalab-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
@@ -211,17 +211,19 @@
     "timeWeek": 501,
     "timeMonth": 531,
     "timeYear": 555,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-11": 1
+    }
   },
   {
     "name": "Sun Lab (datalab app)",
     "url": "https://datalab.camsunlab.com",
     "icon": "https://icons.duckduckgo.com/ip3/datalab.camsunlab.com.ico",
     "slug": "sun-lab-datalab-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 548,
@@ -229,7 +231,9 @@
     "timeWeek": 510,
     "timeMonth": 528,
     "timeYear": 548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-11": 1
+    }
   },
   {
     "name": "PSDI Polymers (datalab app)",
@@ -301,11 +305,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.faraday-fast.datalab.industries.ico",
     "slug": "faraday-fast-datalab-api",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 582,
     "timeDay": 739,
     "timeWeek": 512,
