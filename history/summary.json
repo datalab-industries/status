@@ -113,9 +113,9 @@
     "url": "https://odbx.science",
     "icon": "https://icons.duckduckgo.com/ip3/odbx.science.ico",
     "slug": "odbx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -125,6 +125,7 @@
     "timeMonth": 566,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2026-05-23": 0,
       "2026-02-22": 419,
       "2025-11-24": 80,
       "2025-08-26": 22
@@ -135,9 +136,9 @@
     "url": "https://optimade.odbx.science/v1/structures",
     "icon": "https://icons.duckduckgo.com/ip3/optimade.odbx.science.ico",
     "slug": "odbx-optimade",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -147,6 +148,7 @@
     "timeMonth": 1075,
     "timeYear": 1087,
     "dailyMinutesDown": {
+      "2026-05-23": 0,
       "2026-02-22": 419,
       "2025-11-24": 80,
       "2025-08-26": 22
@@ -157,9 +159,9 @@
     "url": "https://optimade-gnome.odbx.science/v1/structures",
     "icon": "https://icons.duckduckgo.com/ip3/optimade-gnome.odbx.science.ico",
     "slug": "odbx-optimade-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -169,6 +171,7 @@
     "timeMonth": 2374,
     "timeYear": 2269,
     "dailyMinutesDown": {
+      "2026-05-23": 0,
       "2026-02-22": 419,
       "2025-11-24": 81,
       "2025-08-26": 22
@@ -179,9 +182,9 @@
     "url": "https://optimade-misc.odbx.science/v1/structures",
     "icon": "https://icons.duckduckgo.com/ip3/optimade-misc.odbx.science.ico",
     "slug": "odbx-optimade-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -191,6 +194,7 @@
     "timeMonth": 1324,
     "timeYear": 1269,
     "dailyMinutesDown": {
+      "2026-05-23": 0,
       "2026-02-22": 419,
       "2025-11-24": 81,
       "2025-08-26": 22
