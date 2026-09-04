@@ -51,3 +51,8 @@ sites:
 status-website:
   name: datalab.industries status
   introTitle: "Status of the datalab deployments managed by datalab.industries"
+  # The org Pages site owns datalab.industries and serves this repo at
+  # /status/, so sapper must be exported with `--basepath /status` or every
+  # client asset 404s at the root. post-process.ts reads baseUrl for exactly
+  # that, and does so without needing `cname`.
+  baseUrl: /status
