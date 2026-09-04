@@ -40,5 +40,14 @@ sites:
     url: https://api.faraday-fast.datalab.industries
   - name: Dialup (datalab app)
     url: https://dialup.datalab.industries
-  - name: Dialup (datalab app)
+  - name: Dialup (datalab API)
     url: https://api.dialup.datalab.industries
+
+# Without this block, @upptime/status-page 1.17.0 crashes during export:
+# src/routes/_layout.svelte reads config['status-website'].css and .js
+# unguarded, so every route is written out as a 500 "Internal server error"
+# page. Do not set `cname` here: upptime writes it to a CNAME file in
+# gh-pages, which would claim datalab.industries from the org Pages site.
+status-website:
+  name: datalab.industries status
+  introTitle: "Status of the datalab deployments managed by datalab.industries"
