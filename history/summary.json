@@ -102,8 +102,8 @@
     "slug": "odbx",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 664,
@@ -115,7 +115,7 @@
       "2025-11-24": 80,
       "2026-02-22": 419,
       "2026-05-23": 264,
-      "2026-09-04": 1
+      "2026-09-04": 2
     }
   },
   {
@@ -125,7 +125,7 @@
     "slug": "odbx-optimade",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.94%",
+    "uptimeDay": "99.90%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -148,7 +148,7 @@
     "slug": "odbx-optimade-2",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -171,8 +171,8 @@
     "slug": "odbx-optimade-3",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1264,
@@ -184,7 +184,7 @@
       "2025-11-24": 81,
       "2026-02-22": 419,
       "2026-05-23": 264,
-      "2026-09-04": 0
+      "2026-09-04": 1
     }
   },
   {
