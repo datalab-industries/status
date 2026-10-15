@@ -316,10 +316,10 @@
     "url": "https://dialup.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/dialup.datalab.industries.ico",
     "slug": "dialup-datalab-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 615,
@@ -329,7 +329,8 @@
     "timeYear": 615,
     "dailyMinutesDown": {
       "2026-02-01": 502,
-      "2026-05-03": 88
+      "2026-05-03": 88,
+      "2026-10-15": 1
     }
   },
   {
@@ -337,10 +338,10 @@
     "url": "https://api.dialup.datalab.industries",
     "icon": "https://icons.duckduckgo.com/ip3/api.dialup.datalab.industries.ico",
     "slug": "dialup-datalab-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
@@ -348,6 +349,8 @@
     "timeWeek": 672,
     "timeMonth": 585,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-15": 1
+    }
   }
 ]
