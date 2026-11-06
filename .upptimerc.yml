@@ -8,14 +8,6 @@ workflowSchedule:
   uptime: "*/30 * * * *"
 
 sites:
-  - name: API
-    url: https://avnos-datalab-api.matgenix.com/healthcheck/is_ready
-  - name: App
-    url: https://avnos-datalab.matgenix.com
-  - name: Demo API
-    url: https://demo-api.datalab-org.io/healthcheck/is_ready
-  - name: Demo app
-    url: https://demo.datalab-org.io/
   - name: grafana
     url: https://grafana.datalab.industries
   - name: odbx
@@ -26,23 +18,6 @@ sites:
     url: https://optimade-gnome.odbx.science/v1/structures
   - name: odbx (OPTIMADE 3)
     url: https://optimade-misc.odbx.science/v1/structures
-  - name: Sun Lab (datalab API)
-    url: https://datalab-api.camsunlab.com
-  - name: Sun Lab (datalab app)
-    url: https://datalab.camsunlab.com
-  - name: PSDI Polymers (datalab app)
-    url: https://psdi.datalab.industries
-  - name: PSDI Polymers (datalab API)
-    url: https://api.psdi.datalab.industries
-  - name: Faraday FAST (datalab app)
-    url: https://faraday-fast.datalab.industries
-  - name: Faraday FAST (datalab API)
-    url: https://api.faraday-fast.datalab.industries
-  - name: Dialup (datalab app)
-    url: https://dialup.datalab.industries
-  - name: Dialup (datalab API)
-    url: https://api.dialup.datalab.industries
-
 # Without this block, @upptime/status-page 1.17.0 crashes during export:
 # src/routes/_layout.svelte reads config['status-website'].css and .js
 # unguarded, so every route is written out as a 500 "Internal server error"
